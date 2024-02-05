@@ -23,6 +23,21 @@ export default function Index() {
           {/* Big Blocks Container Start */}
           <div className="w-full sm:w-3/4 flex flex-col gap-12">
             <div id="about">{t("personal.myDreamPositionDesc")}</div>
+            <div id="personal_mobile" className="sm:hidden">
+              <BlockTitle title={t("personal.title")} />
+              <div className="flex flex-col gap-2">
+                <BlockContent
+                  variant={2}
+                  listTitle={t("personal.myEmail.title")}
+                  text={t("personal.myEmail.data")}
+                />
+                <BlockContent
+                  variant={21}
+                  listTitle={t("personal.myPhone.title")}
+                  text={t("personal.myPhone.data")}
+                />
+              </div>
+            </div>
             <div id="experience">
               <BlockTitle title={t("experience.title")} />
               <div className="flex flex-col gap-10">
@@ -144,7 +159,7 @@ export default function Index() {
           {/* Big Blocks Container End */}
           {/* Small Blocks Container Start */}
           <div className="w-full sm:w-1/4 flex flex-col gap-12">
-            <div id="personal">
+            <div id="personal" className="hidden sm:visible">
               <BlockTitle title={t("personal.title")} />
               <div className="flex flex-col gap-2">
                 <BlockContent
