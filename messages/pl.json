@@ -1,0 +1,196 @@
+{
+  "Index": {
+    "siteWelcomeText": "Cześć! Witam na mojej stronie z osobistym CV",
+    "personal": {
+      "title": "Dane osobowe",
+      "myFirstName": "Vitaly",
+      "mySecondName": "Vasilyev",
+      "myEmail": { "title": "E-mail", "data": "vit.va.77@gmail.com" },
+      "myPhone": { "title": "Numer Telefonu", "data": "+48 577 461 765" },
+      "myDreamPosition": "Specjalista ds. projektów",
+      "myDreamPositionDesc": "Zaangażowany w pracę na stanowisku specjalista ds. projektów, z doświadczeniem branży Projektowania. Dzięki umiejętnościom zdobytym na poprzednich stanowiskach pracy, wiem, jak funkcjonować w dużym zespole, by razem osiągać zamierzone cele.",
+      "legal": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)."
+    },
+    "experience": {
+      "title": "Doświadczenie",
+      "positionItems": {
+        "item_6": {
+          "dateStart": "09.2023",
+          "dateEnd": "obecnie",
+          "position": "Serwisant elementów precyzyjnych",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Montaż, demontaż, serwisowanie aparatów słuchowych",
+            "listItem_2": "Wykonywanie pomiarów: elektroakustycznych, drukowanie wykresów oraz ocena wizualna aparatów"
+          }
+        },
+        "item_5": {
+          "dateStart": "02.2023",
+          "dateEnd": "09.2023",
+          "position": "Pracownik magazynowy",
+          "place": "Autodoc Logistics, Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Kompletacja i pakowanie paczek",
+            "listItem_2": "Prowadzenie ewidencji towarów",
+            "listItem_3": "Utrzymywanie porządku oraz organizacja magazynu"
+          }
+        },
+        "item_4": {
+          "dateStart": "10.2003",
+          "dateEnd": "01.2023",
+          "position": "Projektant CAD - przemysł lotniczy i budowa maszyn",
+          "place": "Lotniczy Zakład Remontowy, Baranowicze, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Wstępne planowanie elementów mocy silników i podzespołów samolotów",
+            "listItem_2": "Doradztwo i kontrola procesu produkcyjnego",
+            "listItem_3": "Nadzór nad montażem części produkcyjnych na miejscu instalacji",
+            "listItem_4": "Przygotowywanie dokumentacji zgodnie ze standardami firmy"
+          }
+        },
+        "item_3": {
+          "dateStart": "12.2001",
+          "dateEnd": "07.2003",
+          "position": "Inżynier mechatronik w zakresie technologii obsługi, pomiarów, sterowania i regulacji",
+          "place": "ATLANT AG, Baranowicze, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Naprawa i diagnostyka układów automatyki maszyn przemysłowych",
+            "listItem_2": "Monitorowanie parametrów czujników"
+          }
+        },
+        "item_2": {
+          "dateStart": "05.2001",
+          "dateEnd": "11.2001",
+          "position": "Praktyka na stanowisku technika mechatronika",
+          "place": "Sieć telewizji kablowej, Baranowicze, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Naprawa i diagnostyka układu automatyki sieci kablowej"
+          }
+        },
+        "item_1": {
+          "dateStart": "02.2001",
+          "dateEnd": "05.2001",
+          "position": "Projektant CAD",
+          "place": "Fabryka części samochodowych AVTAKO, Baranowicze, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Udział w projekcie postprocessingu technicznego w zakresie mechanicznych elementów napędowych maszyn przemysłowych"
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Wykształcenie",
+      "positionItems": {
+        "item_1": {
+          "dateStart": "09.1994",
+          "dateEnd": "06.1999",
+          "position": "Elektroenergetyka, Inżynier",
+          "place": "Uniwersytet Techniczny w Mińsku, Mińsk, Białoruś",
+          "listTitle": "Umiejętności:",
+          "listItems": {
+            "listItem_1": "Czytanie schematów elektrycznych",
+            "listItem_2": "Odczytywanie dokumentacji technicznej",
+            "listItem_3": "Naprawa urządzeń elektrycznych",
+            "listItem_4": "Projektowanie instalacji elektrycznych"
+          }
+        }
+      }
+    },
+    "skills_1": {
+      "title": "Umiejętności",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Obsługa komputera",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Obsługa urządzeń biurowych (drukarka, skaner)",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Samodzielność i bardzo dobra organizacja pracy",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Umiejętność pracy w zespole",
+          "stars": "5"
+        },
+        "skillItem_5": {
+          "data": "Komunikatywność",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Kreatywność",
+          "stars": "5"
+        }
+      }
+    },
+    "skills_2": {
+      "title": "Oprogramowanie",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Microsoft Word",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Microsoft Excel",
+          "stars": "4"
+        },
+        "skillItem_3": {
+          "data": "SolidWorks (3D)",
+          "stars": "4"
+        },
+        "skillItem_4": {
+          "data": "Siemens NX (3D)",
+          "stars": "4"
+        },
+        "skillItem_5": {
+          "data": "Kompas (3D)",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Adobe Photoshop",
+          "stars": "3"
+        },
+        "skillItem_7": {
+          "data": "Adobe Illustrator",
+          "stars": "3"
+        }
+      }
+    },
+    "skills_3": {
+      "title": "Języki",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Polski",
+          "stars": "3"
+        },
+        "skillItem_2": {
+          "data": "Białoruski",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Rosyjski",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Angielski",
+          "stars": "3"
+        },
+        "skillItem_5": {
+          "data": "Niemiecki",
+          "stars": "2"
+        }
+      }
+    },
+    "interests": {
+      "title": "Zainteresowania",
+      "text": "Interesuję się komputerami oraz nowymi technologiami, dlatego praca w firmie Demant będzie dla mnie dodatkowo motywująca i sprawi mi wiele radości."
+    }
+  }
+}

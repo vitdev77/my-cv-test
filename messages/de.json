@@ -1,0 +1,196 @@
+{
+  "Index": {
+    "siteWelcomeText": "Hallo! Willkommen auf meiner persönlichen Lebenslaufseite",
+    "personal": {
+      "title": "Persönliche Daten",
+      "myFirstName": "Vitaly",
+      "mySecondName": "Vasilyev",
+      "myEmail": { "title": "E-mail", "data": "vit.va.77@gmail.com" },
+      "myPhone": { "title": "Telefonnummer", "data": "+48 577 461 765" },
+      "myDreamPosition": "Projektspezialist",
+      "myDreamPositionDesc": "Engagiert als Projektspezialist mit Erfahrung in der Designbranche. Dank der in früheren Tätigkeiten erworbenen Fähigkeiten weiß ich, wie man in einem großen Team funktioniert, um gemeinsam die angestrebten Ziele zu erreichen.",
+      "legal": "Ich bin einverstanden, dass meine in diesem Arbeitsangebot enthaltenen personalen Daten durch die Firma für die Rekrutierungszwecke verwendet werden, gemäβ dem Gesetz vom 29.08.1997 über den Schutz der Personaldaten (Gesetzblatt von 2016, Pos. 922 mit späteren Änderungen)."
+    },
+    "experience": {
+      "title": "Erfahrung",
+      "positionItems": {
+        "item_6": {
+          "dateStart": "09.2023",
+          "dateEnd": "heute",
+          "position": "Technischer Präzisionselementsmitarbeiter",
+          "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Installation, Demontage und Wartung von Hörgeräten",
+            "listItem_2": "Durchführung von Messungen: Elektroakustik, Drucken von Diagrammen und visuelle Beurteilung von Geräten"
+          }
+        },
+        "item_5": {
+          "dateStart": "02.2023",
+          "dateEnd": "09.2023",
+          "position": "Lagerarbeiter",
+          "place": "Autodoc Logistics, Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Kommissionierung und Verpackung von Paketen",
+            "listItem_2": "Führen von Warenaufzeichnungen",
+            "listItem_3": "Aufrechterhaltung der Ordnung und Organisation des Lagers"
+          }
+        },
+        "item_4": {
+          "dateStart": "10.2003",
+          "dateEnd": "01.2023",
+          "position": "CAD-Konstrukteur - Flugzeugindustrie und Maschinenbau",
+          "place": "Flugzeugreparaturwerk, Baranowitschi, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Vorplanung von Kraftelementen von Triebwerken und Bestandteilen der Flugzeuge",
+            "listItem_2": "Beratung und Kontrolle des Fertigungsprozesses",
+            "listItem_3": "Betreuung der Montage der Fertigungsteile am Aufstellungsort",
+            "listItem_4": "Erstellung der Dokumentation in Übereinstimmung mit den Normen des Unternehmens"
+          }
+        },
+        "item_3": {
+          "dateStart": "12.2001",
+          "dateEnd": "07.2003",
+          "position": "Mechatroniker im Bereich Betriebs-, Mess-, Steuer- und Regelungstechnik",
+          "place": "ATLANT AG, Baranowitschi, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Reparatur und Diagnostik des Automatisierungssystems von Industriemaschinen",
+            "listItem_2": "Überwachung der Sensorparameter und deren Wartung"
+          }
+        },
+        "item_2": {
+          "dateStart": "05.2001",
+          "dateEnd": "11.2001",
+          "position": "Praktikum als Mechatroniker",
+          "place": "Kabelfernsehnetz, Baranowitschi, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Reparatur und Diagnose des Kabelnetzwerk-Automatisierungssystems"
+          }
+        },
+        "item_1": {
+          "dateStart": "02.2001",
+          "dateEnd": "05.2001",
+          "position": "CAD-Konstrukteur - Maschinenbau",
+          "place": "AVTAKO Ersatzteilwerk, Baranowitschi, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Teilnahme an einem Projekt in der technischen Nachbearbeitung der mechanischen Antriebskomponenten von Industriemaschinen"
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Ausbildung",
+      "positionItems": {
+        "item_1": {
+          "dateStart": "09.1994",
+          "dateEnd": "06.1999",
+          "position": "Energietechnik, Ingenieur",
+          "place": "Technische Universität Minsk, Minsk, Weißrussland",
+          "listTitle": "Fähigkeiten:",
+          "listItems": {
+            "listItem_1": "Elektrische Schaltpläne lesen",
+            "listItem_2": "Technischer Dokumentation lesen",
+            "listItem_3": "Reparatur von Elektrogeräten",
+            "listItem_4": "Planung von Elektroinstallationen"
+          }
+        }
+      }
+    },
+    "skills_1": {
+      "title": "Fähigkeiten",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Computer",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Support für Bürogeräte (Drucker, Scanner)",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Unabhängigkeit und sehr gute Arbeitsorganisation",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Teamfähigkeit",
+          "stars": "5"
+        },
+        "skillItem_5": {
+          "data": "Kommunikation",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Kreativität",
+          "stars": "5"
+        }
+      }
+    },
+    "skills_2": {
+      "title": "Software",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Microsoft Word",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Microsoft Excel",
+          "stars": "4"
+        },
+        "skillItem_3": {
+          "data": "SolidWorks (3D)",
+          "stars": "4"
+        },
+        "skillItem_4": {
+          "data": "Siemens NX (3D)",
+          "stars": "4"
+        },
+        "skillItem_5": {
+          "data": "Kompas (3D)",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Adobe Photoshop",
+          "stars": "3"
+        },
+        "skillItem_7": {
+          "data": "Adobe Illustrator",
+          "stars": "3"
+        }
+      }
+    },
+    "skills_3": {
+      "title": "Sprachen",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Polnisch",
+          "stars": "3"
+        },
+        "skillItem_2": {
+          "data": "Weißrussisch",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Russisch",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Englisch",
+          "stars": "3"
+        },
+        "skillItem_5": {
+          "data": "Deutsch",
+          "stars": "2"
+        }
+      }
+    },
+    "interests": {
+      "title": "Interessen",
+      "text": "Ich interessiere mich für Computer und neue Technologien, daher wird die Arbeit bei Demant für mich zusätzlich motivierend sein und mir viel Freude bereiten."
+    }
+  }
+}
