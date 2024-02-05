@@ -10,7 +10,7 @@ export default function Index() {
       <div className="container flex flex-col gap-4 sm:gap-8 py-6">
         {/* Main Block Start */}
         <div>
-          <h1 className="text-6xl font-semibold mb-2">
+          <h1 className="text-6xl leading-tight font-semibold mb-2">
             {t("personal.myFirstName")} {t("personal.mySecondName")}
           </h1>
           <div className="text-3xl text-muted-foreground">
