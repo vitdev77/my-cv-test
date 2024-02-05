@@ -159,7 +159,7 @@ export default function Index() {
           {/* Big Blocks Container End */}
           {/* Small Blocks Container Start */}
           <div className="w-full sm:w-1/4 flex flex-col gap-12">
-            <div id="personal" className="hidden sm:visible">
+            <div id="personal" className="hidden sm:block">
               <BlockTitle title={t("personal.title")} />
               <div className="flex flex-col gap-2">
                 <BlockContent
