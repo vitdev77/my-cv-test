@@ -13,7 +13,7 @@ export default function Index() {
           <h1 className="text-6xl font-semibold mb-2">
             {t("personal.myFirstName")} {t("personal.mySecondName")}
           </h1>
-          <div className="text-3xl text-primary">
+          <div className="text-3xl text-muted-foreground">
             {t("personal.myDreamPosition")}
           </div>
         </div>
