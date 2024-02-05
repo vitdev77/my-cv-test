@@ -38,7 +38,7 @@ export function BlockContent({
   return (
     <>
       {variant === 1 && (
-        <div className="flex flex-col md:flex-row">
+        <div className="flex flex-col md:flex-row gap-0 md:gap-4 lg:gap-6">
           <div className="w-full md:w-1/5 leading-7">
             {dateStart} ... {dateEnd}
           </div>

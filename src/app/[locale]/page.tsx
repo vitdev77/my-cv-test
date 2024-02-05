@@ -19,11 +19,11 @@ export default function Index() {
         </div>
         {/* Main Block End */}
         {/* Blocks Container Start */}
-        <div className="flex flex-col sm:flex-row gap-12 sm:gap-16">
+        <div className="flex flex-col md:flex-row gap-12 md:gap-16">
           {/* Big Blocks Container Start */}
-          <div className="w-full sm:w-3/4 flex flex-col gap-12">
+          <div className="w-full md:w-3/5 lg:w-3/4 flex flex-col gap-12">
             <div id="about">{t("personal.myDreamPositionDesc")}</div>
-            <div id="personal_mobile" className="sm:hidden">
+            <div id="personal_mobile" className="md:hidden">
               <BlockTitle title={t("personal.title")} />
               <div className="flex flex-col gap-2">
                 <BlockContent
@@ -158,8 +158,8 @@ export default function Index() {
           </div>
           {/* Big Blocks Container End */}
           {/* Small Blocks Container Start */}
-          <div className="w-full sm:w-1/4 flex flex-col gap-12">
-            <div id="personal" className="hidden sm:block">
+          <div className="w-full md:w-2/5 lg:w-1/4 flex flex-col gap-12">
+            <div id="personal" className="hidden md:block">
               <BlockTitle title={t("personal.title")} />
               <div className="flex flex-col gap-2">
                 <BlockContent
