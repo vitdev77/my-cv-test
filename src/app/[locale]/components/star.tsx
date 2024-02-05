@@ -1,4 +1,4 @@
-import { LuStar } from "react-icons/lu";
+import { FaStar } from "react-icons/fa6";
 
 interface StarProps {
   inactive?: string;
@@ -8,7 +8,7 @@ export const Star = ({ inactive }: StarProps) => {
   return (
     <>
       {
-        <LuStar
+        <FaStar
           className={`text-primary {${inactive === "1" && " opacity-25"}`}
         />
       }
