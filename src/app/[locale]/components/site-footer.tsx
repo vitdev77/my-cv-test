@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export function SiteFooter() {
   return (
-    <footer className="hidden md:block md:py-0 print:hidden">
+    <footer className="hidden lg:block md:py-0 print:hidden">
       <div className="container flex flex-col items-center justify-center gap-2 h-auto md:flex-row sm:h-24 text-balance text-center text-sm leading-loose text-muted-foreground">
         <Button variant="ghost">
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
