@@ -10,7 +10,7 @@ export function BlockTitle({ title }: BlockTitleProps) {
       <h2 className="text-2xl font-semibold text-muted-foreground uppercase tracking-widest mb-4">
         {title}
       </h2>
-      {/* <Separator className="my-3" /> */}
+      <Separator className="my-3 block sm:hidden" />
     </>
   );
 }
