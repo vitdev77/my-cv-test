@@ -40,7 +40,8 @@ export function BlockContent({
       {variant === 1 && (
         <div className="flex flex-col md:flex-row gap-0 md:gap-4 lg:gap-6">
           <div className="w-full md:w-1/5 leading-7">
-            {dateStart} ... {dateEnd}
+            {dateStart} <span className="text-muted-foreground">...</span>{" "}
+            {dateEnd}
           </div>
           <div className="w-full md:w-4/5">
             <h3 className="font-semibold text-xl text-primary">{position}</h3>
