@@ -1,4 +1,5 @@
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 
 import "@/styles/globals.css";
 import type { Metadata, Viewport } from "next";
@@ -54,6 +55,7 @@ export default function RootLayout({
             <main className="flex-1">
               {children}
               <SpeedInsights />
+              <Analytics />
             </main>
             <SiteFooter />
           </div>
