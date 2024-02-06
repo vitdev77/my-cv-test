@@ -1,6 +1,6 @@
 {
   "Index": {
-    "siteWelcomeText": "Hallo! Willkommen auf meiner persönlichen Lebenslaufseite",
+    "siteWelcomeText": "Hallo! Willkommen auf meiner persönlichen Lebenslauf Seite",
     "personal": {
       "title": "Persönliche Daten",
       "myFirstName": "Vitaly",
@@ -12,10 +12,10 @@
       "legal": "Ich bin einverstanden, dass meine in diesem Arbeitsangebot enthaltenen personalen Daten durch die Firma für die Rekrutierungszwecke verwendet werden, gemäβ dem Gesetz vom 29.08.1997 über den Schutz der Personaldaten (Gesetzblatt von 2016, Pos. 922 mit späteren Änderungen)."
     },
     "experience": {
-      "title": "Erfahrung",
+      "title": "Berufserfahrung",
       "positionItems": {
         "item_6": {
-          "dateStart": "09.2023",
+          "dateStart": "09/2023",
           "dateEnd": "heute",
           "position": "Technischer Präzisionselementsmitarbeiter",
           "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
@@ -26,8 +26,8 @@
           }
         },
         "item_5": {
-          "dateStart": "02.2023",
-          "dateEnd": "09.2023",
+          "dateStart": "02/2023",
+          "dateEnd": "09/2023",
           "position": "Lagerarbeiter",
           "place": "Autodoc Logistics, Stettin, Polen",
           "listTitle": "Verantwortlichkeiten:",
@@ -38,8 +38,8 @@
           }
         },
         "item_4": {
-          "dateStart": "10.2003",
-          "dateEnd": "01.2023",
+          "dateStart": "10/2003",
+          "dateEnd": "01/2023",
           "position": "CAD-Konstrukteur - Flugzeugindustrie und Maschinenbau",
           "place": "Flugzeugreparaturwerk, Baranowitschi, Weißrussland",
           "listTitle": "Verantwortlichkeiten:",
@@ -51,8 +51,8 @@
           }
         },
         "item_3": {
-          "dateStart": "12.2001",
-          "dateEnd": "07.2003",
+          "dateStart": "12/2001",
+          "dateEnd": "07/2003",
           "position": "Mechatroniker im Bereich Betriebs-, Mess-, Steuer- und Regelungstechnik",
           "place": "ATLANT AG, Baranowitschi, Weißrussland",
           "listTitle": "Verantwortlichkeiten:",
@@ -62,8 +62,8 @@
           }
         },
         "item_2": {
-          "dateStart": "05.2001",
-          "dateEnd": "11.2001",
+          "dateStart": "05/2001",
+          "dateEnd": "11/2001",
           "position": "Praktikum als Mechatroniker",
           "place": "Kabelfernsehnetz, Baranowitschi, Weißrussland",
           "listTitle": "Verantwortlichkeiten:",
@@ -72,8 +72,8 @@
           }
         },
         "item_1": {
-          "dateStart": "02.2001",
-          "dateEnd": "05.2001",
+          "dateStart": "02/2001",
+          "dateEnd": "05/2001",
           "position": "CAD-Konstrukteur - Maschinenbau",
           "place": "AVTAKO Ersatzteilwerk, Baranowitschi, Weißrussland",
           "listTitle": "Verantwortlichkeiten:",
@@ -87,8 +87,8 @@
       "title": "Ausbildung",
       "positionItems": {
         "item_1": {
-          "dateStart": "09.1994",
-          "dateEnd": "06.1999",
+          "dateStart": "09/1994",
+          "dateEnd": "06/1999",
           "position": "Energietechnik, Ingenieur",
           "place": "Technische Universität Minsk, Minsk, Weißrussland",
           "listTitle": "Fähigkeiten:",
@@ -131,7 +131,7 @@
       }
     },
     "skills_2": {
-      "title": "Software",
+      "title": "EDV-Kenntnisse",
       "skillItems": {
         "skillItem_1": {
           "data": "Microsoft Word",
