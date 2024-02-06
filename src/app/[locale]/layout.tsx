@@ -1,3 +1,5 @@
+import { SpeedInsights } from "@vercel/speed-insights/next";
+
 import "@/styles/globals.css";
 import type { Metadata, Viewport } from "next";
 
@@ -49,7 +51,10 @@ export default function RootLayout({
         >
           <div className="relative flex min-h-screen flex-col bg-background">
             <SiteHeader locale={locale} />
-            <main className="flex-1">{children}</main>
+            <main className="flex-1">
+              {children}
+              <SpeedInsights />
+            </main>
             <SiteFooter />
           </div>
         </ThemeProvider>
